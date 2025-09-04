@@ -16,6 +16,7 @@ InventorySystem.sln
 [Bb]inaries/
 [Ii]ntermediate/
 DerivedDataCache/
+__ExternalObjects__/
 
 # Ignore saved data
 Saved/
